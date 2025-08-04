@@ -1,1 +1,1 @@
-This is a simple blog interface from capstone project. Cannot be interracted.
+This is a simple blog using EJS from capstone project. Cannot be interracted.
