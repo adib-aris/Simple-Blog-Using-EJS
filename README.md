@@ -1,0 +1,1 @@
+This is a simple blog interface from capstone project. Cannot be interracted.
